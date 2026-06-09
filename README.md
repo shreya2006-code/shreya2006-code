@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Shreya 👋
 
-<!--
-**shreya2006-code/shreya2006-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (AI & ML) Student at Bennett University
+🏆 3× Dean's List Awardee
 
-Here are some ideas to get you started:
+I am passionate about AI Engineering, Generative AI, LLMs, RAG pipelines, Agentic AI, and Software Development. I enjoy building intelligent systems, solving challenging problems, and turning AI concepts into practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+• LLM Engineering
+• Retrieval-Augmented Generation (RAG)
+• Agentic AI Systems
+• AI Application Development
+• Data Structures & Algorithms
+
+Tech:
+Python • C++ • FastAPI • React • PostgreSQL • Git • APIs
